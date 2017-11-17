@@ -1,0 +1,48 @@
+body{
+    font-family:  monospace !important; 
+    background-color: #f7f5f5 !important;
+   
+}
+.books-div{
+    border: 1px solid #a7a4a4;
+    border-radius: 5px;
+    margin-bottom: 5%;
+    text-align: center;
+    cursor:pointer;
+}
+.col-sm-4.img-div img {
+    width: 150px;
+    height: 150px;
+}
+.title-div {
+    font-weight: bold;
+    color: #818182;
+}
+.author-div{
+    color: #818182;
+}
+#header-div {
+    background-color: #ff9600e3;
+    color: white;
+    font-weight: bold;
+    text-align: center;
+    font-size: x-large;
+}
+#buttons-div{
+    margin-top:2%;
+    margin-bottom:2%;
+    text-align:center;
+}
+#buttons-div button {
+    padding: 5px;
+    margin-right: 1%;
+    background-color: #ca6161;
+    color: white;
+    cursor: pointer;
+   
+}
+.img-div img{
+    border-radius: 15px;
+    margin-bottom: 10px;
+    margin-top: 10px;
+}
